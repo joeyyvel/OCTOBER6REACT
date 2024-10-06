@@ -1,0 +1,6 @@
+.myLink {
+  background-color: rgb(110, 109, 6);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
